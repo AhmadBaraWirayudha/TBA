@@ -1,0 +1,5 @@
+# Optional experimental MCMC mode
+-r requirements.txt
+emcee
+scikit-learn
+scipy

@@ -1,0 +1,10 @@
+{
+  "document": "C:\\path\\to\\saved_model.FCStd",
+  "spreadsheet": "Spreadsheet",
+  "analysis": "Analysis",
+  "parameters": {"BeamLength": 150.0},
+  "noise": {"BeamLength": 0.0},
+  "units": {"BeamLength": "mm"},
+  "metric_object": "CCX_Results",
+  "metric_property": "MaxVonMises"
+}
